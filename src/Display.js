@@ -38,7 +38,7 @@ const Display = () => {
             <TableHead>
               <TableRow>
                 <StyledTableCell>First Name</StyledTableCell>
-                <StyledTableCell align="right">Last Name</StyledTableCell>
+                <StyledTableCell align="right">Last Name of</StyledTableCell>
                 <StyledTableCell align="right">Email</StyledTableCell>
                 <StyledTableCell align="right">Gender</StyledTableCell>
                 <StyledTableCell align="right">Contact</StyledTableCell>
