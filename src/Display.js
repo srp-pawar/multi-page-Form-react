@@ -37,7 +37,7 @@ const Display = () => {
           <Table sx={{ minWidth: 700 }} aria-label="customized table">
             <TableHead>
               <TableRow>
-                <StyledTableCell>First Name</StyledTableCell>
+                <StyledTableCell>First Name OF</StyledTableCell>
                 <StyledTableCell align="right">Last Name</StyledTableCell>
                 <StyledTableCell align="right">Email</StyledTableCell>
                 <StyledTableCell align="right">Gender</StyledTableCell>
